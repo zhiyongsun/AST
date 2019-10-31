@@ -1,0 +1,22 @@
+{
+  "name": "ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiyongsun/AST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiyongsun/AST/issues"
+  },
+  "homepage": "https://github.com/zhiyongsun/AST#readme",
+  "dependencies": {
+    "recast": "^0.18.5"
+  }
+}
